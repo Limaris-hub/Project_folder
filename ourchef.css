@@ -1,0 +1,265 @@
+header{
+    background-color: #343942;
+    color: #ffffff;
+    height: 30pc;
+    width: 1580px;
+    padding: right 20px;
+}
+
+.div-1{
+    display: flex;
+    text-align: justify;
+    width: 1580px;
+    height: 187.08px;
+    justify-content: space-evenly;
+    align-content: center;
+    gap: 268px;
+    left: -1px;
+}
+.div-1 img{
+
+}
+.bt-1{
+    padding-top: 10px;
+    border-color: #E1B168;
+    background-color: #343942;
+    font-size: medium;
+    color: #ffffff;
+    height: 50px;
+    width: 215px;
+    text-align: center;
+    font-weight: 600;
+}.div-2{
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav a{
+        color: #ffffff;
+        text-decoration: none;
+        padding-left: 50px;
+}
+nav{
+    display: flex;
+    gap: 35px;
+}
+.insta-img img{
+    
+    margin-right: 20px;
+}
+
+#buttom{
+    margin-top: 70px;
+}
+.bt-2{
+    padding: 15px 15px 15px 15px;
+    border-color: 1px solid #E1B168;
+    background-color: #E1B168;
+    font-size: medium;
+    color: #000;
+    margin-left: 20px;
+    width: 215px;
+}
+.about-us{
+    margin-left: 580px;
+    font-size: larger;
+    width: 150px;
+    height: 70px;
+    margin-top: 100px;
+}
+.chefss{
+    flex-direction: column;
+    width: 1375px;
+    height: 1283px;
+    justify-items: center;
+    margin-left: 30px;
+
+}
+.sixchefs{
+    gap: 32px;
+    width: 1375px;
+    height: px;
+    display: flex;
+}
+.sixchefs img{
+    width: 432px;
+    height: 467px; 
+}
+.sixchefs h3{
+    text-align: center;
+    padding-right: 10px;
+}
+.sixchefs p{
+    text-align: center;
+}
+.twochefs{
+    flex-direction: column;
+    justify-content: center;
+}
+.twochefs h5{
+    text-align: center;
+    padding-left: 10px;
+}
+.blueblack{
+    width: 1580px;
+    padding-left:8px;
+    height: 500px;
+    background-color: #292E36;
+    color: #ffffff;
+    padding-bottom: 16px;
+    flex-direction: column;
+    padding-right: 8px;
+    padding-top: 16px;
+    justify-items: center;
+    justify-content: center;
+}
+.blueblack-in{
+    width: 
+    height: 
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right:;
+    margin-left: 
+}
+.blueblack-1{
+    justify-items: center;
+}
+.blueblack-1{
+    align-self: center;
+}
+.blueblack-1 img{
+    padding-left: 250px;
+}
+.blueblack-2 p{
+    font-style: italic;  
+}
+.blueblack-2 img{
+    padding-left: 240px;
+}
+.blueblack-2 h5{
+    padding-left: 250px;
+    color: #E1B168;
+}
+.blueblack-2 h3{
+    padding-left:220px;
+}
+.beschef{
+    width: 1370px;
+    height: 700px;
+    gap: 51px;
+    display: flex;
+    margin-left: 100px;
+}
+.beschef-1{
+    gap: px;
+}
+.picwri{
+    margin-top: 60px;
+}
+#picwri{
+    gap: 7px;
+    padding-top: 30px;
+}
+.allbt{
+    padding: 20px 50px 20px 50px;
+    margin-top: 80px;
+    border-color: #E1B168;
+    background-color: transparent;
+}
+.bytn{
+    color: #ffffff;
+    font-weight: bolder;
+    width: 1580px;
+    height: 700px;
+    flex-direction: column;
+    justify-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./images/download/formbg-img.png");
+    padding-top: 250px;
+    margin-top: 20px;
+}
+.bytn-1{
+    background-color: #292E29;
+    height: 200px;
+    width: 500px;
+    padding-right: 156px;
+    padding-bottom: 151px;
+    padding-top: 151px;
+    padding-left: 156px;
+}
+
+.bytn h3{
+    margin-left: 140px;
+}
+.bytn h5{
+    margin-left: 150px;
+}
+.forms{
+}
+.two{
+    width: 744px;
+    height: 30px;
+    display: flex;
+    
+
+}
+#two-in{
+    width: 200px;
+    height: 30px;
+    
+}
+#three-in{
+    width: 133.3px;
+    height: 30px;
+    border: 1px;
+}
+.three{
+    width: 744px;
+    height: 68px;
+    margin-top:25px ;
+
+}
+.button-table{
+    width: 133.3px;
+    height: 30px;
+    background-color: #ffffff;
+    color: #000;
+    margin-left: 150px;
+}
+
+.up-body{
+    background-color: #343942;
+    width: 1580px;
+    height: 460px;
+    padding-top: 30px;
+    color: #FFFFFF;
+}
+.up{
+    display: flex;
+    justify-content: space-around;
+    width: 1290px;
+    height: 199px;
+}
+.logo{
+    display: flex;
+    gap: 2px;
+}
+.upup{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+footer{
+    padding-top: 50px;
+    padding-left: 100px;
+    border-top: 1px solid #E1B168;
+    border-bottom: 2px solid #E1B168;
+}
